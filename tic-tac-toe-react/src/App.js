@@ -1,13 +1,12 @@
-import './App.css';
-//import Square from './Square';
-import Board from './Board';
+import "./App.css";
+import Board from "./Board";
 
-const App =()=> {         
+const App = () => {
   return (
-     <div>
-      <Board/>
+    <div>
+      <Board />
     </div>
   );
-}
+};
 
 export default App;
